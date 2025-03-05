@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/jdq3Cfbw/web.webp" width=100% height=320px>
+<img src="https://i.postimg.cc/jdq3Cfbw/web.webp" width=100% height=320px >
 <h1 align="center">Hi 👋, I'm Biniyam Agegnehu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia and I'm Passionate about crafting beautiful, user-friendly interfaces and bringing digital experiences to life.</h3>
 <img align="right" src="https://th.bing.com/th/id/R.7a78fd83c5626dc885713c3b5a043d14?rik=dFqjP4CkL0c%2bIw&pid=ImgRaw&r=0" alt="I am a good programmer" width="450">
