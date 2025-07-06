@@ -1,4 +1,4 @@
-<img src="https://quickops.pt/wp-content/uploads/2023/08/MicrosoftTeams-image-125.png" width=100% height=350px>
+<img src="https://quickops.pt/wp-content/uploads/2023/08/MicrosoftTeams-image-125.png" width=100% height=300px>
 
 <h1 align="center">Hi 👋, I'm Biniyam Agegnehu</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia and I'm Passionate about crafting beautiful, user-friendly interfaces and bringing digital experiences to life.</h3>
