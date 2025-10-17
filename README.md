@@ -1,4 +1,4 @@
-<img src="https://quickops.pt/wp-content/uploads/2023/08/MicrosoftTeams-image-125.png" width=100% height=300px>
+<img src="https://imgur.com/v6tZ1BT" width=100% height=300px>
 
 <h1 align="center">Hi 👋, I'm Biniyam Agegnehu</h1>
 <h3 align="center">I'm a passionate Frontend Developer with a strong eye for design, usability, and responsive interfaces. I specialize in building sleek, user-friendly web applications using technologies like:
