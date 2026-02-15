@@ -64,7 +64,7 @@ and clean, maintainable code.
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biniyamagegnehu&show_icons=true&theme=tokyonight&hide_rank=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biniyamagegnehu&show_icons=true&theme=tokyonight&hide_rank=false" />
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=biniyamagegnehu&layout=compact&theme=tokyonight" />
 </p>
 
