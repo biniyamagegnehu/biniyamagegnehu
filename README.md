@@ -72,7 +72,6 @@ and clean, maintainable code.
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=biniyamagegnehu&theme=tokyonight" />
 </p>
 
-
 ---
 
 <h3 align="center">🚀 Let's Build Something Amazing</h3>
