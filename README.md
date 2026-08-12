@@ -103,10 +103,10 @@ Interested in building scalable backend systems, AI-enabled products, and modern
 <p align="center">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com?user=biniyamagegnehu&theme=tokyonight"
+    src="https://streak-stats.demolab.com/?user=biniyamagegnehu&theme=tokyonight"
     alt="Biniyam's GitHub Streak"
   />
-</p>
+</p> 
 ---
 
 <h3 align="center">🚀 Let's Build Something Amazing</h3>
