@@ -86,14 +86,27 @@ Interested in building scalable backend systems, AI-enabled products, and modern
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biniyamagegnehu&show_icons=true&locale=en&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=biniyamagegnehu&layout=compact&theme=tokyonight" />
+  <img
+    width="49%"
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=biniyamagegnehu&show_icons=true&locale=en&theme=tokyonight"
+    alt="Biniyam's GitHub Stats"
+  />
+  <img
+    width="49%"
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=biniyamagegnehu&layout=compact&theme=tokyonight"
+    alt="Biniyam's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=biniyamagegnehu&theme=tokyonight" />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=biniyamagegnehu&theme=tokyonight"
+    alt="Biniyam's GitHub Streak"
+  />
 </p>
-
 ---
 
 <h3 align="center">🚀 Let's Build Something Amazing</h3>
