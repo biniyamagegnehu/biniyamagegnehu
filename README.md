@@ -90,7 +90,7 @@ Interested in building scalable backend systems, AI-enabled products, and modern
     width="49%"
     height="180"
     src="https://github-stats-extended.vercel.app/api?username=biniyamagegnehu&show_icons=true&locale=en&theme=tokyonight"
-    alt="Biniyam's GitHub Stats"
+    alt="Biniyam's GitHub Stats "
   />
   <img
     width="49%"
