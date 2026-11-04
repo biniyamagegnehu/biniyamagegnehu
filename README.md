@@ -1,10 +1,10 @@
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Biniyam+Agegnehu;Backend-Focused+Full+Stack+Developer;Laravel+PHP+Developer;AI-Enabled+Product+Builder;Problem+Solver+Through+Technology" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Biniyam+Agegnehu;Full+stack+Developer;NestJS+%7C+Next.js+%7C+TypeScript;Building+Scalable+Software+Solutions" alt="Typing SVG" />
 
 <h3 align="center">
-Interested in building scalable backend systems, AI-enabled products, and modern web applications.
+Backend-focused Full-Stack Developer interested in building scalable backend systems, secure APIs, and modern web applications.
 </h3>
 
 
@@ -20,12 +20,13 @@ Interested in building scalable backend systems, AI-enabled products, and modern
 
 # 🚀 About Me
 
-- 💻 Backend-focused Full Stack Developer passionate about building scalable and impactful software
-- 🧠 Problem Solver who prioritizes creating digital solutions for real-world challenges
-- ⚙️ Specializing in Laravel, PHP, Next.js, TypeScript, and modern backend architecture
-- 🤖 Interested in AI-enabled products and intelligent web applications
-- 🐳 Learning and building production-ready applications
-- 🌱 Always improving my system design, backend engineering, and product development skills
+- 💻 Backend Developer and Software Engineering student passionate about building scalable software solutions
+- ⚙️ Focused on NestJS, Node.js, TypeScript, REST API development, and backend architecture
+- 🗄️ Experienced in designing database schemas and working with PostgreSQL, Prisma, MySQL, and MongoDB
+- 🔐 Interested in secure authentication, authorization, API validation, and backend best practices
+- 🌐 Experienced in building full-stack applications using Next.js, React, Laravel, and Node.js
+- 🏢 Full-Stack Developer Intern at Fanaye Technologies, working with Next.js and NestJS
+- 🌱 Continuously improving my backend engineering, system design, and software architecture skills
 - 📫 Reach me at: **biniyamagegnehu2@gmail.com**
 
 ---
@@ -73,12 +74,13 @@ Interested in building scalable backend systems, AI-enabled products, and modern
 
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48"/><br/>Netlify</td>
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Render
-</td>    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=render" width="48"/><br/>Render
+    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48"/><br/>Prisma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>AWS</td>
   </tr>
 </table>
 
